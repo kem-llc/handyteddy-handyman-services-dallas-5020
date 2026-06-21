@@ -1,0 +1,330 @@
+{
+  "business": {
+    "name": "HandyTeddy Handyman Services",
+    "shortName": "HandyTeddy",
+    "tagline": "Your Trusted Handyman in Dallas – Quality Repairs & Home Improvements",
+    "niche": "Handyman",
+    "phone": "(929) 500-5020",
+    "address": "12015 Leisure Way, Dallas, TX 75243",
+    "city": "Dallas, TX",
+    "hours": "Mon–Fri: 7 AM – 7 PM, Sat: 8 AM – 4 PM, Sun: Closed",
+    "ctaLabel": "Book Appointment",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "HandyTeddy Handyman Services | Expert Repairs in Dallas, TX",
+    "description": "HandyTeddy offers professional handyman services in Dallas, TX. From plumbing to electrical, painting to assembly – we fix it all. Same-day service available. Call (929) 500-5020."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's #1 Handyman",
+      "headline": "Professional Handyman Services in Dallas You Can Trust",
+      "subheadline": "Reliable, skilled, and affordable – we handle everything from minor fixes to major home improvements.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "See Our Services"
+    },
+    "stats": [
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Why Choose Us",
+        "title": "Expert Handyman Services – Done Right the First Time",
+        "body": "At HandyTeddy, we pride ourselves on delivering top-notch craftsmanship and exceptional customer service. Whether it's a leaky faucet, a broken door, or a full home renovation, our team has the skills and experience to get the job done efficiently.",
+        "bullets": [
+          "Licensed and insured professionals",
+          "Free upfront estimates with no hidden fees",
+          "Same-day service for urgent repairs",
+          "Quality materials and workmanship guaranteed"
+        ],
+        "reverse": false,
+        "cardLabel": "Featured Service",
+        "cardTitle": "Plumbing Repairs",
+        "cardBody": "From dripping faucets to clogged drains, our plumbers handle it all with precision and care."
+      },
+      {
+        "eyebrow": "Our Promise",
+        "title": "Affordable, Reliable, and Friendly Service",
+        "body": "We know that home repairs can be stressful. That's why we make it easy: clear communication, fair pricing, and a smile. Every job, big or small, is treated with the same level of dedication.",
+        "bullets": [
+          "No job too small – we fix it all",
+          "Transparent pricing with no surprises",
+          "Friendly, uniformed technicians",
+          "Eco-friendly and sustainable practices"
+        ],
+        "reverse": true,
+        "cardLabel": "Customer Favorite",
+        "cardTitle": "Assembly & Installation",
+        "cardBody": "Furniture assembly, TV mounting, shelving – we set it up so you can enjoy it stress-free."
+      }
+    ],
+    "whyTitle": "Why HandyTeddy Stands Out in Dallas",
+    "whyChooseUs": [
+      {
+        "title": "Locally Owned & Operated",
+        "description": "We're your neighbors, not a faceless corporation. We understand Dallas homes and take pride in our community."
+      },
+      {
+        "title": "Skilled & Experienced Team",
+        "description": "Every technician is background-checked, trained, and equipped with the latest tools."
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "description": "If you're not happy, we'll make it right. No questions asked."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "You'll know the cost upfront. No hidden fees, no upsells – just honest work."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "HandyTeddy fixed my kitchen sink in under an hour. Professional and fair-priced. Highly recommend!",
+        "author": "Sarah M.",
+        "role": "Homeowner in Lakewood"
+      },
+      {
+        "quote": "They assembled my entire patio furniture set perfectly. Saved me so much time and frustration.",
+        "author": "James L.",
+        "role": "Resident in Uptown"
+      },
+      {
+        "quote": "I've used HandyTeddy multiple times for various repairs. Always on time, friendly, and the work is excellent.",
+        "author": "Maria G.",
+        "role": "Homeowner in Oak Lawn"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Fix It?",
+      "subheadline": "Schedule your free estimate today and see why Dallas trusts HandyTeddy.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (929) 500-5020"
+    }
+  },
+  "servicesPage": {
+    "intro": "From small repairs to big renovations, HandyTeddy offers a full range of handyman services in Dallas. Our skilled team is ready to tackle any project with professionalism and care."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Plumbing Repairs",
+      "shortDescription": "Fix leaks, clogs, and more with our expert plumbing services.",
+      "longDescription": "Our licensed plumbers handle everything from dripping faucets to burst pipes. We use advanced tools to diagnose issues quickly and provide lasting repairs. Whether it's a toilet repair or a water heater installation, we ensure your plumbing runs smoothly.",
+      "benefits": [
+        "Fast response for emergency leaks",
+        "Durable repairs using quality parts",
+        "Transparent pricing with no hidden fees",
+        "Preventative maintenance tips included"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We thoroughly inspect the issue to identify the root cause."
+        },
+        {
+          "title": "Repair",
+          "description": "Our technicians perform the repair efficiently and cleanly."
+        },
+        {
+          "title": "Follow-up",
+          "description": "We test the system and ensure everything works perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer emergency plumbing services?",
+          "answer": "Yes, we provide same-day service for urgent plumbing issues. Call us anytime."
+        },
+        {
+          "question": "Are your plumbers licensed?",
+          "answer": "Absolutely. All our plumbers are licensed, insured, and highly trained."
+        }
+      ],
+      "slug": "plumbing-repairs"
+    },
+    {
+      "icon": "02",
+      "title": "Electrical Services",
+      "shortDescription": "Safe and reliable electrical repairs and installations.",
+      "longDescription": "From outlet replacements to ceiling fan installations, our electricians handle residential electrical work with precision. We follow strict safety protocols to protect your home and family. No job is too small – we also fix flickering lights, faulty switches, and more.",
+      "benefits": [
+        "Licensed and insured electricians",
+        "Safety inspections included",
+        "Energy-efficient solutions",
+        "Clean and tidy work area"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We evaluate the electrical issue and plan the safest solution."
+        },
+        {
+          "title": "Execution",
+          "description": "Our electricians perform the work with care and expertise."
+        },
+        {
+          "title": "Testing",
+          "description": "We test all connections to ensure safety and functionality."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install a ceiling fan?",
+          "answer": "Yes, we install ceiling fans of all types, including remote-controlled and light kits."
+        },
+        {
+          "question": "Do you handle rewiring?",
+          "answer": "We handle minor to moderate rewiring projects. For major rewires, we'll consult and provide a plan."
+        }
+      ],
+      "slug": "electrical-services"
+    },
+    {
+      "icon": "03",
+      "title": "Painting & Drywall",
+      "shortDescription": "Give your walls a fresh look with our painting and drywall services.",
+      "longDescription": "Transform any room with our professional painting and drywall repair. We prep surfaces meticulously, use premium paints, and deliver smooth, even finishes. From patching holes to full-room painting, we make your walls look brand new.",
+      "benefits": [
+        "Premium paints and materials",
+        "Detailed prep for lasting results",
+        "Minimal mess with drop cloths and tape",
+        "Color consultation available"
+      ],
+      "process": [
+        {
+          "title": "Preparation",
+          "description": "We protect floors and furniture, then patch and sand surfaces."
+        },
+        {
+          "title": "Painting",
+          "description": "We apply primer and paint with precision for a flawless finish."
+        },
+        {
+          "title": "Cleanup",
+          "description": "We remove all materials and leave your space spotless."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you provide paint?",
+          "description": "Yes, we can supply paint or work with your preferred brand. We also offer color matching."
+        },
+        {
+          "question": "How long does a room take?",
+          "description": "Most standard rooms are completed in one day, depending on size and condition."
+        }
+      ],
+      "slug": "painting-drywall"
+    },
+    {
+      "icon": "04",
+      "title": "Furniture Assembly & Installation",
+      "shortDescription": "We assemble and install furniture so you don't have to.",
+      "longDescription": "Save time and frustration – let our team handle your furniture assembly and installation. From IKEA to custom pieces, we follow instructions precisely and ensure stability. We also mount TVs, shelves, curtain rods, and more.",
+      "benefits": [
+        "Fast and efficient assembly",
+        "Tools and hardware included",
+        "No leftover parts – we guarantee fit",
+        "TV mounting with hidden wires"
+      ],
+      "process": [
+        {
+          "title": "Unboxing",
+          "description": "We carefully unbox and organize all parts."
+        },
+        {
+          "title": "Assembly",
+          "description": "We follow the manual step-by-step for a sturdy build."
+        },
+        {
+          "title": "Placement",
+          "description": "We position the item exactly where you want it."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you assemble IKEA furniture?",
+          "answer": "Yes, we specialize in IKEA and all major brands. We've assembled hundreds of pieces."
+        },
+        {
+          "question": "Can you mount a TV on brick?",
+          "answer": "Absolutely. We have the tools and expertise to mount TVs on any wall surface."
+        }
+      ],
+      "slug": "furniture-assembly-installation"
+    }
+  ],
+  "about": {
+    "headline": "About HandyTeddy – Your Dallas Handyman",
+    "mission": "To provide Dallas homeowners with reliable, high-quality handyman services that make life easier and homes better.",
+    "story": [
+      "HandyTeddy was founded by Teddy, a lifelong Dallas resident who saw a need for honest, skilled handymen in the community. After years of working for large contractors, he decided to start a business that puts customers first – with transparent pricing, clear communication, and a commitment to excellence. What began as a one-man operation quickly grew into a trusted team serving the entire Dallas area.",
+      "Today, HandyTeddy is proud to be a locally owned and operated handyman service. We treat every home like our own, ensuring that every repair and improvement is done to the highest standard. Our team continues to train on the latest techniques and tools, so you can trust us with any project, big or small."
+    ],
+    "highlight": {
+      "stat": "5.0",
+      "label": "Average Customer Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We do what we say and stand behind our work."
+      },
+      {
+        "title": "Quality",
+        "description": "We use the best materials and methods for lasting results."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your home and time with the utmost respect."
+      },
+      {
+        "title": "Community",
+        "description": "We support local businesses and give back to Dallas."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to start your project? Call or fill out the form for a free estimate.",
+    "primaryCta": "Call (929) 500-5020",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Oak Lawn",
+      "Uptown",
+      "Preston Hollow",
+      "Lake Highlands"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Handyman",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:9295005020",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
